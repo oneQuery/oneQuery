@@ -1,5 +1,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ByteBrewer&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ByteBrewer&theme=default)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByteBrewer&count_private=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ByteBrewer&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
