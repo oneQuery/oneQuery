@@ -2,18 +2,60 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByteBrewer&count_private=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=ByteBrewer&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
+# [Your Name]
 
-<!--
-**ByteBrewer/ByteBrewer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[Short introduction about yourself]
 
-Here are some ideas to get you started:
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Skill 1]
+- [Skill 2]
+- [Skill 3]
+- ...
+
+## Work Experience
+
+### [Job Title], [Company], [Dates]
+
+- [Responsibility 1]
+- [Responsibility 2]
+- [Responsibility 3]
+- ...
+
+### [Job Title], [Company], [Dates]
+
+- [Responsibility 1]
+- [Responsibility 2]
+- [Responsibility 3]
+- ...
+
+## Education
+
+- [Degree], [Field of Study], [University], [Graduation Date]
+- [Degree], [Field of Study], [University], [Graduation Date]
+
+## Projects
+
+### [Project 1]
+
+[Short description of project 1]
+
+[Link to project repository or website]
+
+[Optional: Screenshot or image of project]
+
+### [Project 2]
+
+[Short description of project 2]
+
+[Link to project repository or website]
+
+[Optional: Screenshot or image of project]
+
+...
+
+## Contact
+
+[Your email address or link to LinkedIn profile]
+
+
