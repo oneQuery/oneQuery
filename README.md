@@ -21,11 +21,11 @@ Heesu Kim is DL/ML engineer and DL framework developer.
 
 ### Research assistant, University of Virginia, 2021-2022
 
-- He assisted designing a evaluation algorithm for surgery performance using RL[^4] and surgery simulator.
+- He assisted designing a evaluation algorithm for surgical performance using RL[^4] and surgery simulator.
 
 ### Research assistant, University of Iowa, 2019-2021
 
-- He assisted serving DMS[^5] that alarms the mis-use or non-proper use of seatbelts.
+- He assisted serving DMS[^5] that alarms the mis-use or improper use of seatbelts.
 - He assisted impelenting HPE[^6] module for ergonomics project that measures the risk of the workers' injury at field.
 
 ### Internship, KRISO[^7], 2017-2018
@@ -34,26 +34,33 @@ Heesu Kim is DL/ML engineer and DL framework developer.
 
 ## Education
 
-- [Degree], [Field of Study], [University], [Graduation Date]
-- [Degree], [Field of Study], [University], [Graduation Date]
+- Master of Engineering, Naval Architecture and Ocean Engineering, Inha University, 2019, _Thesis title: Local path planning for autopilot of ship with quaternion ship domain_
+- Master of Philosophy, Naval Architecture & Ocean and Marine Engieering, University of Strathclyde, 2018, _Thesis title: Stereo vision-based object detection algorithm for USV[^8] using faster R-CNN[^9]_
+- Bachelor of Engineering, Naval Architecture and Ocean Engineering, Inha University
 
 ## Projects
 
-### [Project 1]
+### Evaluating surgical performance using reinforcement learning
 
-[Short description of project 1]
+In this project, we are looking to the capability of AI to score surgical performance, which replaces the manual scoring from experts.
 
-[Link to project repository or website]
+![image](https://user-images.githubusercontent.com/24229051/222420639-21400d16-3849-401c-a3a2-ad5102a85433.png)
 
-[Optional: Screenshot or image of project]
+### System and method for monitoring occupants within a vehicle using a plurality of convolutional nerual network
 
-### [Project 2]
+This Project aims to develop a classification model to detect proper, imporper, and non-use of the seatbelt in vehicles through vision processing thereby using deep learning
 
-[Short description of project 2]
+![image](https://user-images.githubusercontent.com/24229051/222421553-15de3f7e-86f0-4782-859d-f26735d2889a.png)
 
-[Link to project repository or website]
+### Ergonomics assessment for workers' safe
 
-[Optional: Screenshot or image of project]
+This project aims to establish a workflow to assess the workers' injury risk on the top of the automation that estimates their pose.
+
+![image](https://user-images.githubusercontent.com/24229051/222422483-20eb79bb-48b2-4916-8466-90337838147a.png)
+
+### A study on path optimization method of an USV[^8] under environmental loads using GA[^10] (2017) ([ScienceDirect.com](https://www.sciencedirect.com/science/article/abs/pii/S0029801817304122))
+
+![image](https://user-images.githubusercontent.com/24229051/222423441-264ae7bb-6689-4d44-9cff-a2e7a2910f3d.png)
 
 ...
 
@@ -69,3 +76,7 @@ Heesu Kim is DL/ML engineer and DL framework developer.
 [^5]: Driver Monitoring System
 [^6]: Human Pose Estimation
 [^7]: Korea Research Institute of ships and Ocean Engineering
+[^8]: Unmanned Surface Vehicle
+[^9]: Region Convolutional Neural Network
+[^10]: Genetic Algorithm
+[^11]: Ocean Engineering
