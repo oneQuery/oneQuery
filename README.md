@@ -40,29 +40,38 @@ Heesu Kim is DL/ML engineer and DL framework developer.
 
 ## Projects
 
-### Evaluating surgical performance using reinforcement learning
+### Evaluating surgical performance using reinforcement learning (2022)
 
 In this project, we are looking to the capability of AI to score surgical performance, which replaces the manual scoring from experts.
 
 ![image](https://user-images.githubusercontent.com/24229051/222420639-21400d16-3849-401c-a3a2-ad5102a85433.png)
 
-### System and method for monitoring occupants within a vehicle using a plurality of convolutional nerual network
+### System and method for monitoring occupants within a vehicle using a plurality of convolutional nerual network (2021)
 
 This Project aims to develop a classification model to detect proper, imporper, and non-use of the seatbelt in vehicles through vision processing thereby using deep learning
 
 ![image](https://user-images.githubusercontent.com/24229051/222421553-15de3f7e-86f0-4782-859d-f26735d2889a.png)
 
-### Ergonomics assessment for workers' safe
+### Ergonomics assessment for workers' safe (2020)
 
 This project aims to establish a workflow to assess the workers' injury risk on the top of the automation that estimates their pose.
 
 ![image](https://user-images.githubusercontent.com/24229051/222422483-20eb79bb-48b2-4916-8466-90337838147a.png)
 
-### A study on path optimization method of an USV[^8] under environmental loads using GA[^10] (2017) ([ScienceDirect.com](https://www.sciencedirect.com/science/article/abs/pii/S0029801817304122))
+### Stereo vision-based object detection algorithm for USV[^8] using faster R-CNN[^9] (2018) 
+
+[[Stax.Strath.ac.uk](https://stax.strath.ac.uk/concern/theses/4b29b6075)]
+[[Youtube.com](https://www.youtube.com/watch?v=c9i-GPGj5B8)]
+
+![image](https://user-images.githubusercontent.com/24229051/222427212-809779ac-c8a0-417f-9983-7cdd5c7cf0d7.png)
+
+### A study on path optimization method of an USV[^8] under environmental loads using GA[^10] (2017) 
+
+[[ScienceDirect.com](https://www.sciencedirect.com/science/article/abs/pii/S0029801817304122)]
+[[Github.com](https://github.com/ByteBrewer/shipPathOptimization)]
+[[Youtube.com](https://www.youtube.com/watch?v=k9u-QVia5hc)]
 
 ![image](https://user-images.githubusercontent.com/24229051/222423441-264ae7bb-6689-4d44-9cff-a2e7a2910f3d.png)
-
-...
 
 ## Contact
 
@@ -77,6 +86,6 @@ This project aims to establish a workflow to assess the workers' injury risk on 
 [^6]: Human Pose Estimation
 [^7]: Korea Research Institute of ships and Ocean Engineering
 [^8]: Unmanned Surface Vehicle
-[^9]: Region Convolutional Neural Network
+[^9]: Region-based Convolutional Neural Network
 [^10]: Genetic Algorithm
 [^11]: Ocean Engineering
