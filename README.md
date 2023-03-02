@@ -34,9 +34,9 @@ Heesu Kim is DL/ML engineer and DL framework developer.
 
 ## Education
 
-- Master of Engineering, Naval Architecture and Ocean Engineering, Inha University, 2019, _Thesis title: Local path planning for autopilot of ship with quaternion ship domain_
-- Master of Philosophy, Naval Architecture & Ocean and Marine Engieering, University of Strathclyde, 2018, _Thesis title: Stereo vision-based object detection algorithm for USV[^8] using faster R-CNN[^9]_
-- Bachelor of Engineering, Naval Architecture and Ocean Engineering, Inha University
+- Master of Engineering, Naval Architecture and Ocean Engineering, Inha University, Korea, 2019, _Thesis title: Local path planning for autopilot of ship with quaternion ship domain_
+- Master of Philosophy, Naval Architecture & Ocean and Marine Engieering, University of Strathclyde, United Kingdom, 2018, _Thesis title: Stereo vision-based object detection algorithm for USV[^8] using faster R-CNN[^9]_
+- Bachelor of Engineering, Naval Architecture and Ocean Engineering, Inha University, Korea
 
 ## Projects
 
@@ -58,6 +58,21 @@ This project aims to establish a workflow to assess the workers' injury risk on 
 
 ![image](https://user-images.githubusercontent.com/24229051/222422483-20eb79bb-48b2-4916-8466-90337838147a.png)
 
+### Stereo vision-based object detection algorithm for USV[^8] using faster R-CNN[^9] (2018) 
+
+This project aims to detect other ships in the ocean and estimate the distance to them.
+
+[[Stax.Strath.ac.uk](https://stax.strath.ac.uk/concern/theses/4b29b6075)]
+[[Youtube.com](https://www.youtube.com/watch?v=c9i-GPGj5B8)]
+
+![image](https://user-images.githubusercontent.com/24229051/222427212-809779ac-c8a0-417f-9983-7cdd5c7cf0d7.png)
+
+### Collision avoidance implementation on ROS (2022)
+
+This project aims to implement ship collision avoidance algorithm on ROS[^3]
+
+![image](https://user-images.githubusercontent.com/24229051/222433978-b576b7e2-681c-4186-8b27-47623e270942.png)
+
 ### Local path planning for ship autopilot with quaternion ship domain (2019)
 
 This project aims to develop a collision avoidance algorithm for ship autopilot.
@@ -67,15 +82,6 @@ This project aims to develop a collision avoidance algorithm for ship autopilot.
 [[Youtube.com](https://www.youtube.com/watch?v=jqptI6XHtwA)]
 
 ![image](https://user-images.githubusercontent.com/24229051/222430364-5c24c062-ba54-49fe-82dd-8f9e209c6a58.png)
-
-### Stereo vision-based object detection algorithm for USV[^8] using faster R-CNN[^9] (2018) 
-
-This project aims to detect other ships in the ocean and estimate the distance to them.
-
-[[Stax.Strath.ac.uk](https://stax.strath.ac.uk/concern/theses/4b29b6075)]
-[[Youtube.com](https://www.youtube.com/watch?v=c9i-GPGj5B8)]
-
-![image](https://user-images.githubusercontent.com/24229051/222427212-809779ac-c8a0-417f-9983-7cdd5c7cf0d7.png)
 
 ### A study on path optimization method of an USV[^8] under environmental loads using GA[^10] (2017) 
 
@@ -87,10 +93,26 @@ This project aims to optimize the route for USV to minimize the fuel time cost.
 
 ![image](https://user-images.githubusercontent.com/24229051/222423441-264ae7bb-6689-4d44-9cff-a2e7a2910f3d.png)
 
+## Publications
+- [**Kim, H.**, Kim, S.H., Jeon, M., Kim, J., Song, S. and Paik, K.J., "A study on path optimization method of an unmanned surface vehicle under environmental loads using genetic algorithm", Ocean Engineering, 2017](https://doi.org/10.1016/j.oceaneng.2017.07.040)
+- [Jeon, M.R., **Kim, H.S.**, Kim, J.H., Kim, S.J., Song, S.S. and Kim, S.H., "A study on the dynamic positioning control algorithm using fuzzy gain scheduling PID control theory", Journal of the Society of Naval Architects of Korea, 2017](http://dx.doi.org/10.3744/SNAK.2017.54.2.102)
+- [Song, S.S., Kim, S.H., **Kim, H.S.** and Jeon, M.R., "A study on the feedforward control algorithm for dynamic positioning system using ship motion prediction", Journal of the Korean Society of Marine Environment & Safety, 2016](https://doi.org/10.7837/kosomes.2016.22.1.129)
+
+## Conference Publications
+- Heesu Kim, Sehyun Chun, Stephen Baek. “Detecting Adequate Use of a Seat Belt for Driver Monitoring System”, Research Open House (Virtual), 2020, University of Iowa, USA
+- Heesu Kim, Evangelos Bolourouris, Sanghyun Kim, “Object Detection Algorithm for Unmanned Surface Vehicle using Faster R-CNN”, WMTC[^12], 2018, Shanghai, China
+- Heesu Kim, Sanghyun Kim. “A Study on Heave and Pitch Motion Control of Fully-Submerged Hydrofoil using Deep Q-Network”, General Meeting and Annual Autumn Conference of the Society of Naval Architects of Korea, 2018, Changwon, Republic of Korea
+- Heesu Kim. “A study on dynamic obstacle avoidance for Unmanned Surface Vehicle using Deep Q-Network”, PAAMES / AMEC[^13], 2018,  BEXCO, Busan, Republic of Korea Joint Symposium, ICC JEJU, Jeju, Republic of Korea
+- Heesu Kim, Evangelos Boulougouris. “A study on algorithm of vision-based real-time object recognition for USV using Faster R-CNN”, KAOSTS[^14], 2018, Republic of Korea
+- Heesu Kim, Evangelos Boulougouris. “Vision based collision risk for Unmanned Surface Vehicle using Faster Region based Convolutional Neural Network”, EKC[^15], 2017, Stockholm, Sweden
+- Heesu Kim, Sanghyun Kim. “A study on optimized path selection algorithm for unmanned surface vehicles under ocean environmental loads”, ANC[^16], 2016, Yeosu Expo, Yeosu, Republic of Korea
+- Heesu Kim, Sanghyun Kim. “A study on optimized path selection algorithm for unmanned surface vehicles under ocean environmental loads”, KAOSTS[^17] Joint Symposium, 2016, BEXCO, Busan, Republic of Korea
+- Heesu Kim, Soonseok Song, Maro Jeon, Sanghyun Kim. “A study on the feedforward control algorithm for dynamic positioning system using ship motion prediction”,
+ISFT[^18], 2016, Harbin, China
+
 ## Contact
 
-[Your email address or link to LinkedIn profile]
-
+heesu-kim@snuailab.ai
 
 [^1]: Pytorch(Main), Keras, Tensorflow
 [^2]: Object detection, Image classification, Human pose estimation
@@ -103,3 +125,10 @@ This project aims to optimize the route for USV to minimize the fuel time cost.
 [^9]: Region-based Convolutional Neural Network
 [^10]: Genetic Algorithm
 [^11]: Ocean Engineering
+[^12]: World Maritime Technology Conference
+[^13]: Advanced Maritime Engineering Conference Concurrently with Pan Asian Association of Maritime Engineering societies
+[^14]: The Korean Association of Ocean Science and Technology Societies
+[^15]: Europe-Korea Conference on Science and Technology
+[^16]: Asia Navigation Conference
+[^17]: The Korean Association of Ocean Science and Technology Societies
+[^18]: International Symposium on Fusion Tech
