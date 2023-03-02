@@ -58,7 +58,19 @@ This project aims to establish a workflow to assess the workers' injury risk on 
 
 ![image](https://user-images.githubusercontent.com/24229051/222422483-20eb79bb-48b2-4916-8466-90337838147a.png)
 
+### Local path planning for ship autopilot with quaternion ship domain (2019)
+
+This project aims to develop a collision avoidance algorithm for ship autopilot.
+
+[[Inha.Primo.exlibrisGroup.com(Korean)](https://inha.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991009103061005086&context=L&vid=82KST_INH:INHA&lang=ko&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,%EA%B9%80%ED%9D%AC%EC%88%98&offset=0)]
+[[Github.com](https://github.com/ByteBrewer/ship-local-path-planning)]
+[[Youtube.com](https://www.youtube.com/watch?v=jqptI6XHtwA)]
+
+![image](https://user-images.githubusercontent.com/24229051/222430364-5c24c062-ba54-49fe-82dd-8f9e209c6a58.png)
+
 ### Stereo vision-based object detection algorithm for USV[^8] using faster R-CNN[^9] (2018) 
+
+This project aims to detect other ships in the ocean and estimate the distance to them.
 
 [[Stax.Strath.ac.uk](https://stax.strath.ac.uk/concern/theses/4b29b6075)]
 [[Youtube.com](https://www.youtube.com/watch?v=c9i-GPGj5B8)]
@@ -66,6 +78,8 @@ This project aims to establish a workflow to assess the workers' injury risk on 
 ![image](https://user-images.githubusercontent.com/24229051/222427212-809779ac-c8a0-417f-9983-7cdd5c7cf0d7.png)
 
 ### A study on path optimization method of an USV[^8] under environmental loads using GA[^10] (2017) 
+
+This project aims to optimize the route for USV to minimize the fuel time cost.
 
 [[ScienceDirect.com](https://www.sciencedirect.com/science/article/abs/pii/S0029801817304122)]
 [[Github.com](https://github.com/ByteBrewer/shipPathOptimization)]
