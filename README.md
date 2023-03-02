@@ -4,7 +4,7 @@
 
 # Heesu Kim
 
-Heesu Kim is DL/ML engineer and DL framework developer.
+Heesu Kim is currently a DL/ML[^0] engineer and DL framework developer. He was previously a ship autopilot algorithm engineer but stepped into the DL world to make up his dream.
 
 ## Skills
 
@@ -34,15 +34,24 @@ Heesu Kim is DL/ML engineer and DL framework developer.
 
 ## Education
 
-- Master of Engineering, Naval Architecture and Ocean Engineering, Inha University, Korea, 2019, _Thesis title: Local path planning for autopilot of ship with quaternion ship domain_
-- Master of Philosophy, Naval Architecture & Ocean and Marine Engieering, University of Strathclyde, United Kingdom, 2018, _Thesis title: Stereo vision-based object detection algorithm for USV[^8] using faster R-CNN[^9]_
+- Master of Engineering, Naval Architecture and Ocean Engineering, Inha University, Korea, 2019, _Thesis title: [Local path planning for autopilot of ship with quaternion ship domain(Korean)](https://inha.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991009103061005086&context=L&vid=82KST_INH:INHA&lang=ko&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,%EA%B9%80%ED%9D%AC%EC%88%98&offset=0)_
+- Master of Philosophy, Naval Architecture & Ocean and Marine Engieering, University of Strathclyde, United Kingdom, 2018, _Thesis title: [Stereo vision-based object detection algorithm for USV using faster R-CNN](https://stax.strath.ac.uk/concern/theses/4b29b6075)_
 - Bachelor of Engineering, Naval Architecture and Ocean Engineering, Inha University, Korea
 
 ## Projects
 
+### Waffle: Adaptive Deep Learning Framework (Current)
+
+In this project, we are looking to the specialized training platform focusing on the "Adaptive".
+
+[[waffle_hub(Github.com)](https://github.com/snuailab/waffle_hub)]
+[[waffle_utils(Github.com)](https://github.com/snuailab/waffle_utils)]
+
+![image](https://user-images.githubusercontent.com/24229051/222444602-aa0432f1-01ee-4823-8988-8d0a2eec5c35.png)
+
 ### Evaluating surgical performance using reinforcement learning (2022)
 
-In this project, we are looking to the capability of AI to score surgical performance, which replaces the manual scoring from experts.
+This project aims to study the capability of AI to score surgical performance, which replaces the manual scoring from experts.
 
 ![image](https://user-images.githubusercontent.com/24229051/222420639-21400d16-3849-401c-a3a2-ad5102a85433.png)
 
@@ -114,6 +123,7 @@ ISFT[^18], 2016, Harbin, China
 
 heesu-kim@snuailab.ai
 
+[^0]: Deep Learning / Machine Learning
 [^1]: Pytorch(Main), Keras, Tensorflow
 [^2]: Object detection, Image classification, Human pose estimation
 [^3]: Robot Operating System
