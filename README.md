@@ -4,20 +4,21 @@
 
 # Heesu Kim
 
-Heesu Kim is currently a DL/ML[^0] engineer and DL framework developer. He was previously a ship autopilot algorithm engineer but stepped into the DL world to make up his dream.
+Heesu Kim is currently a DL/ML[^0] engineer and DL framework developer. He was previously a ship autopilot algorithm engineer but transitioned to the DL world to make up his dream.
 
 ## Skills
 
-- Deep learning frameworks[^1]
-- Computer vision techniques[^2]
-- Python(Main), Matlab, C++, ROS[^3]
-- Git
+- Deep learning frameworks[^1],
+- Computer vision techniques[^2],
+- Data visualization,
+- Python(Main), Matlab, C++, ROS[^3],
+- Git.
 
 ## Work Experience
 
 ### Research associate, Inha University, 2022
 
-- He assisted in developing collision avoidance algorithms for ship autopilot and their implementation on ROS[^3].
+- He assisted in developing collision avoidance algorithms for ship autopilot and its implementation on ROS[^3].
 
 ### Research assistant, University of Virginia, 2021-2022
 
@@ -25,7 +26,7 @@ Heesu Kim is currently a DL/ML[^0] engineer and DL framework developer. He was p
 
 ### Research assistant, University of Iowa, 2019-2021
 
-- He assisted serving DMS[^5] that alarms the mis-use or improper use of seatbelts.
+- He assisted in serving DMS[^5] that alarms the mis-use or improper use of seatbelts.
 - He assisted impelenting HPE[^6] module for ergonomics project that measures the risk of the workers' injury at field.
 
 ### Internship, KRISO[^7], 2017-2018
@@ -40,7 +41,7 @@ Heesu Kim is currently a DL/ML[^0] engineer and DL framework developer. He was p
 
 ## Projects
 
-### Waffle: Adaptive Deep Learning Framework (Current)
+### Waffle: Adaptive deep learning framework (Current)
 
 In this project, we are looking to the specialized training platform focusing on the "Adaptive".
 
@@ -121,7 +122,8 @@ ISFT[^18], 2016, Harbin, China
 
 ## Contact
 
-heesu-kim@snuailab.ai
+[heesu-kim@snuailab.ai]
+[[DeepErGo(Youtube.com)]([Youtube.com/@deepergo](https://www.youtube.com/@deepergo))]
 
 [^0]: Deep Learning / Machine Learning
 [^1]: Pytorch(Main), Keras, Tensorflow
