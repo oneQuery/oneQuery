@@ -14,24 +14,31 @@ Heesu Kim is currently a DL/ML[^0] engineer and DL framework developer. He was p
 - Python(Main), Matlab, C++, ROS[^3],
 - Git.
 
+
 ## Work Experience
+
+### Researcher, SNUAILAB, 2023-Present
+
+- Working as part of the deep-learning development team in the AI R&D Center.
+- Responsibilities include research and development of deep learning models and frameworks.
 
 ### Research associate, Inha University, 2022
 
-- He assisted in developing collision avoidance algorithms for ship autopilot and its implementation on ROS[^3].
+- Assisted in developing collision avoidance algorithms for ship autopilot and its implementation on ROS[^3].
 
 ### Research assistant, University of Virginia, 2021-2022
 
-- He assisted designing a evaluation algorithm for surgical performance using RL[^4] and surgery simulator.
+- Assisted in designing an evaluation algorithm for surgical performance using RL[^4] and surgery simulator.
 
 ### Research assistant, University of Iowa, 2019-2021
 
-- He assisted in serving DMS[^5] that alarms the mis-use or improper use of seatbelts.
-- He assisted impelenting HPE[^6] module for ergonomics project that measures the risk of the workers' injury at field.
+- Assisted in serving DMS[^5] that alarms the misuse or improper use of seatbelts.
+- Assisted in implementing HPE[^6] module for an ergonomics project that measures the risk of workers' injury at the field.
 
 ### Internship, KRISO[^7], 2017-2018
 
-- He assisted the management and maintenance of ship autopilot systems composed of multiplex AI and automation systems
+- Assisted in the management and maintenance of ship autopilot systems composed of multiplex AI and automation systems.
+
 
 ## Education
 
