@@ -1,6 +1,6 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ByteBrewer&theme=default)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ByteBrewer&count_private=true)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ByteBrewer&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oneQuery&theme=default)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oneQuery&count_private=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=oneQuery&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
 # Heesu Kim
 
@@ -95,7 +95,7 @@ This project aims to implement ship collision avoidance algorithm on ROS[^3]
 This project aims to develop a collision avoidance algorithm for ship autopilot.
 
 [[Inha.Primo.exlibrisGroup.com(Korean)](https://inha.primo.exlibrisgroup.com/discovery/fulldisplay?docid=alma991009103061005086&context=L&vid=82KST_INH:INHA&lang=ko&search_scope=MyInst_and_CI&adaptor=Local%20Search%20Engine&tab=Everything&query=any,contains,%EA%B9%80%ED%9D%AC%EC%88%98&offset=0)]
-[[Github.com](https://github.com/ByteBrewer/ship-local-path-planning)]
+[[Github.com](https://github.com/oneQuery/ship-local-path-planning)]
 [[Youtube.com](https://www.youtube.com/watch?v=jqptI6XHtwA)]
 
 ![image](https://user-images.githubusercontent.com/24229051/222430364-5c24c062-ba54-49fe-82dd-8f9e209c6a58.png)
@@ -105,7 +105,7 @@ This project aims to develop a collision avoidance algorithm for ship autopilot.
 This project aims to optimize the route for USV to minimize the fuel time cost.
 
 [[ScienceDirect.com](https://www.sciencedirect.com/science/article/abs/pii/S0029801817304122)]
-[[Github.com](https://github.com/ByteBrewer/shipPathOptimization)]
+[[Github.com](https://github.com/oneQuery/shipPathOptimization)]
 [[Youtube.com](https://www.youtube.com/watch?v=k9u-QVia5hc)]
 
 ![image](https://user-images.githubusercontent.com/24229051/222423441-264ae7bb-6689-4d44-9cff-a2e7a2910f3d.png)
