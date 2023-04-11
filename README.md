@@ -1,4 +1,15 @@
+<a href="https://www.youtube.com/@oneQuery">
+  <img alt="youtube_oneQ" width="250px" src="images/youtube_oneQ.png"/>
+</a>
+<a href="https://www.linkedin.com/in/oneQuery">
+  <img alt="linkedIn_oneQ" width="200px" src="images/linkedIn_oneQ.png"/>
+</a>
 
+
+
+
+
+<!--
 <table align="center">
   <tr>
     <td>
@@ -13,8 +24,7 @@
     </td>
   </tr>
 </table>
-
-
+-->
 
 
 
