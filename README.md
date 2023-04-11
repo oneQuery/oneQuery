@@ -1,9 +1,5 @@
-![image search api](https://user-images.githubusercontent.com/110724391/184472398-c590b47c-e1f2-41f8-87e6-2a1f68e8850d.png)[(Youtube)](https://www.youtube.com/watch?v=3HIr0imLgxM)
 
-
-
-
-
+[<img alt="youtube_oneQ" width="300px" src="images/youtube_oneQ.png" />](https://www.youtube.com/@oneQuery)
 
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oneQuery&theme=default)
