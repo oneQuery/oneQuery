@@ -1,5 +1,5 @@
 
-[<img alt="youtube_oneQ" width="300px" src="images/youtube_oneQ.png" />](https://www.youtube.com/@oneQuery)
+[<img alt="youtube_oneQ" width="200px" src="images/youtube_oneQ.png" />](https://www.youtube.com/@oneQuery)
 
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oneQuery&theme=default)
