@@ -1,5 +1,5 @@
 
-<table align="left">
+<table align="center">
   <tr>
     <td>
       <a href="https://www.youtube.com/@oneQuery">
