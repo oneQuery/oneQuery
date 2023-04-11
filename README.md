@@ -1,6 +1,23 @@
 
-[<img alt="youtube_oneQ" width="250px" src="images/youtube_oneQ.png" />](https://www.youtube.com/@oneQuery)
-[<img alt="linkedIn_oneQ" width="250px" src="images/linkedIn_oneQ.png" />](www.linkedin.com/in/oneQuery)
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://www.youtube.com/@oneQuery">
+        <img alt="youtube_oneQ" width="250px" src="images/youtube_oneQ.png"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.linkedin.com/in/oneQuery">
+        <img alt="linkedIn_oneQ" width="200px" src="images/linkedIn_oneQ.png"/>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
 
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oneQuery&theme=default)
