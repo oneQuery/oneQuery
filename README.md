@@ -1,6 +1,6 @@
 
 [<img alt="youtube_oneQ" width="250px" src="images/youtube_oneQ.png" />](https://www.youtube.com/@oneQuery)
-[<img alt="linkedIn_oneQ" width="250px" src="images/LinkedIn_oneQ.png" />](www.linkedin.com/in/oneQuery)
+[<img alt="linkedIn_oneQ" width="250px" src="images/linkedIn_oneQ.png" />](www.linkedin.com/in/oneQuery)
 
 <!--
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oneQuery&theme=default)
