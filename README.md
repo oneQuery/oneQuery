@@ -3,7 +3,7 @@
   <tr>
     <td>
       <a href="https://www.youtube.com/@oneQuery">
-        <img alt="youtube_oneQ" width="200px" src="images/youtube_oneQ.png"/>
+        <img alt="youtube_oneQ" width="250px" src="images/youtube_oneQ.png"/>
       </a>
     </td>
     <td>
