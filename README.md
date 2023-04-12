@@ -4,8 +4,12 @@
 <a href="https://www.linkedin.com/in/oneQuery">
   <img alt="linkedIn_oneQ" width="200px" src="images/linkedIn_oneQ.png"/>
 </a>
-
-
+<!--
+# TODO: Add Twitch banner
+<a href="Twitch streaming link">
+  <img alt="twtich_oneQ" width="200px" src="images/twitch_oneQ.png"/>
+</a>
+-->
 
 
 
