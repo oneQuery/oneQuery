@@ -1,8 +1,8 @@
 <a href="https://www.youtube.com/@oneQuery">
-  <img alt="youtube_oneQ" width="150px" src="images/youtube_oneQ.png"/>
+  <img alt="youtube_oneQ" height="120px" src="images/youtube_oneQ.png"/>
 </a>
 <a href="https://www.linkedin.com/in/oneQuery1">
-  <img alt="linkedIn_oneQ" width="100px" src="images/linkedIn_oneQ.png"/>
+  <img alt="linkedIn_oneQ" height="120px" src="images/linkedIn_oneQ.png"/>
 </a>
 <!--
 # TODO: Add Twitch banner
