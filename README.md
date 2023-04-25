@@ -4,8 +4,8 @@
 <a href="https://www.linkedin.com/in/oneQuery1">
   <img alt="linkedIn_oneQ" height="120px" src="images/linkedIn_oneQ.png"/>
 </a>
-<a href="[https://www.linkedin.com/in/oneQuery1](https://www.canva.com/design/DAFhBcA-eFU/Ct_lXFq_mGM2I6oxEq3mZg/view?utm_content=DAFhBcA-eFU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)">
-  <img alt="canva_oneQ" height="100px" src="images/canva_oneQ.png"/>
+<a href="https://www.canva.com/design/DAFhBcA-eFU/Ct_lXFq_mGM2I6oxEq3mZg/view?utm_content=DAFhBcA-eFU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
+  <img alt="canva_oneQ" height="120px" src="images/canva_oneQ.png"/>
 </a>
 <!--
 # TODO: Add Twitch banner
