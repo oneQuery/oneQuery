@@ -4,11 +4,14 @@
 <a href="https://www.linkedin.com/in/oneQuery1">
   <img alt="linkedIn_oneQ" height="120px" src="images/linkedIn_oneQ.png"/>
 </a>
+<!--
+# TODO: complete CV
 <a href="https://www.canva.com/design/DAFhBcA-eFU/Ct_lXFq_mGM2I6oxEq3mZg/view?utm_content=DAFhBcA-eFU&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink">
   <img alt="canva_oneQ" height="120px" src="images/canva_oneQ.png"/>
 </a>
+-->
 <!--
-# TODO: Add Twitch banner
+# TODO: add Twitch banner
 <a href="Twitch streaming link">
   <img alt="twtich_oneQ" width="200px" src="images/twitch_oneQ.png"/>
 </a>
