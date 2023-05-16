@@ -39,11 +39,12 @@
 
 
 
-<!--
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oneQuery&theme=default)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oneQuery&count_private=true)
 [![trophy](https://github-profile-trophy.vercel.app/?username=oneQuery&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
 
+<!--
 # Heesu Kim
 
 Heesu Kim is currently a DL/ML[^0] engineer and DL framework developer. He was previously a ship autopilot algorithm engineer but transitioned to the DL world to make up his dream.
